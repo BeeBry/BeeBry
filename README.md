@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**BeeBry/BeeBry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+Hi there! I'm Bianca Bryan, a passionate Data Scientist with expertise in Python. I love to create innovative solutions to real-world problems and explore new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Programming Languages: Python, R
+Data Analysis: Pandas, NumPy, SQL
+Data Visualization: Matplotlib, Seaborn, Tableau
+Statistical Analysis: Regression
+Big Data Technologies: SQL/NoSQL databases
+Tools: Jupyter Notebook, Git
+
+## Contact Me
+I'm open to exciting data science opportunities and collaborations. Feel free to reach out to me via email at bianca_bryan@hotmail.com. You can also connect with me on LinkedIn for further discussion.
+
+## Let's Connect
